@@ -2,6 +2,10 @@
 function computation(nir13) {
 	return (97 - nir13 % 97);
 }
+
+function Salut(){
+document.write("Salut salut bande de petits veinards")
+}
 function checkNir13(nir13) {
 	// todo...
 	// Ajouter un traintement pour la Corse
