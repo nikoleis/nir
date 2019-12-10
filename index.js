@@ -25,3 +25,4 @@ function onClickDisplayCode2() {
 btn = document.getElementById("btn");
 btn.addEventListener ("click", onClickDisplayCode2);
 
+// vu par Cathy pour Nico
